@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\integration",
+    "\\cypress\\integration\\MyTest"
+  ],
+  "SelectedNode": "\\cypress\\integration\\MyTest\\LogInSL.js",
+  "PreviewInSolutionExplorer": false
+}
